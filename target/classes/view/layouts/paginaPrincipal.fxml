@@ -27,7 +27,7 @@
                               <Image url="@../img/sin_cara.jpg" />
                            </image>
                         </ImageView>
-                        <Label prefHeight="19.0" prefWidth="157.0" text="Kevin Steven Lema Coro">
+                        <Label prefHeight="19.0" prefWidth="160.0" text="Juan León Mera Martinez">
                            <font>
                               <Font name="Times New Roman Bold" size="14.0" />
                            </font>
@@ -47,7 +47,7 @@
                               <Image url="@../img/sin_cara.jpg" />
                            </image>
                         </ImageView>
-                        <Label prefHeight="19.0" prefWidth="157.0" text="Kevin Steven Lema Coro">
+                        <Label prefHeight="19.0" prefWidth="160.0" text="Juan León Mera Martinez">
                            <font>
                               <Font name="Times New Roman Bold" size="14.0" />
                            </font>
@@ -64,7 +64,7 @@
                               <Image url="@../img/sin_cara.jpg" />
                            </image>
                         </ImageView>
-                        <Label prefHeight="19.0" prefWidth="157.0" text="Kevin Steven Lema Coro">
+                        <Label prefHeight="19.0" prefWidth="160.0" text="Juan León Mera Martinez">
                            <font>
                               <Font name="Times New Roman Bold" size="14.0" />
                            </font>
@@ -81,7 +81,7 @@
                               <Image url="@../img/sin_cara.jpg" />
                            </image>
                         </ImageView>
-                        <Label prefHeight="19.0" prefWidth="157.0" text="Kevin Steven Lema Coro">
+                        <Label prefHeight="19.0" prefWidth="160.0" text="Juan León Mera Martinez">
                            <font>
                               <Font name="Times New Roman Bold" size="14.0" />
                            </font>
