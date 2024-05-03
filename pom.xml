@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>project</groupId>
     <!--modificar-->
-    <artifactId>p1_java</artifactId>
+    <artifactId>db1_interface_layouts</artifactId>
     <version>1.0.0</version>
     <!--fin modificacion-->
     <properties>
